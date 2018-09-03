@@ -9,6 +9,13 @@
         <element label="Full Name" max_length="100" name="full_name" type="string"/>
         <element label="Last Name" max_length="40" name="last_name" type="string"/>
         <element label="Middle Initial" max_length="3" name="middle_initial" type="string"/>
-        <element label="State" max_length="40" name="state" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Patient SSN" max_length="40" name="patient_ssn" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone" max_length="40" name="phone" type="string"/>
+        <element label="Provider Name" max_length="32" name="provider_name" reference="x_272930_carepal_1_insrance_provider" type="reference"/>
+        <element label="State" max_length="40" name="state" reference="x_272930_carepal_1_us_states" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Zip" max_length="40" name="zip" type="string"/>
+        <index name="index">
+            <element name="provider_name"/>
+        </index>
     </element>
 </database>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Facility">6ea69efd4f1023002715b5e18110c7e2</application>
+        <filter/>
+        <name>Facilities</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_272930_carepal_1.CarePal Admin</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-03 02:19:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e6a69efd4f1023002715b5e18110c7e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Facilities</sys_name>
+        <sys_package display_value="CarePal 1.0" source="x_272930_carepal_1">404e06794f1023002715b5e18110c793</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CarePal 1.0">404e06794f1023002715b5e18110c793</sys_scope>
+        <sys_update_name>sys_ui_module_e6a69efd4f1023002715b5e18110c7e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-03 02:19:28</sys_updated_on>
+        <table>x_272930_carepal_1_facility</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

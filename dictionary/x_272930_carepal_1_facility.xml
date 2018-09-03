@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Facility" max_length="40" name="x_272930_carepal_1_facility" type="collection">
+        <element label="Address 1" max_length="40" name="address_1" type="string"/>
+        <element label="Address 2" max_length="40" name="address_2" type="string"/>
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Phone" max_length="40" name="phone" type="string"/>
+        <element label="State" max_length="40" name="state" reference="x_272930_carepal_1_us_states" type="reference"/>
+        <element label="Zip" max_length="40" name="zip" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="US States" max_length="40" name="x_272930_carepal_1_us_states" type="collection">
+        <element label="Abbreviation" max_length="2" name="abbreviation" type="string"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

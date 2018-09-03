@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Caregiver" max_length="40" name="x_272930_carepal_1_caregiver" type="collection">
+        <element label="Address 1" max_length="40" name="address_1" type="string"/>
+        <element label="Address 2" max_length="40" name="address_2" type="string"/>
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="Name" max_length="100" name="name" type="string"/>
+        <element label="Phone" max_length="40" name="phone" type="string"/>
+        <element choice="1" label="State" max_length="40" name="state" reference="x_272930_carepal_1_us_states" type="reference">
+            <choice/>
+        </element>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Relative" sequence="100" value="relative"/>
+                <element inactive_on_update="false" label="Doctor" sequence="200" value="doctor"/>
+                <element inactive_on_update="false" label="Nurse" sequence="200" value="nurse"/>
+            </choice>
+        </element>
+    </element>
+</database>

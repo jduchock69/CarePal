@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Med DB" max_length="40" name="x_272930_carepal_1_med_db" type="collection">
+        <element label="Alias" max_length="100" name="alias" type="string"/>
+        <element label="RX Name" max_length="100" name="rx_name" type="string"/>
+    </element>
+</database>
