@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Patient">f56eca794f1023002715b5e18110c764</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Patients</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_272930_carepal_1_patient</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-03 01:43:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>716eca794f1023002715b5e18110c767</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Patients</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CarePal 1.0" source="x_272930_carepal_1">404e06794f1023002715b5e18110c793</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CarePal 1.0">404e06794f1023002715b5e18110c793</sys_scope>
+        <sys_update_name>sys_app_module_716eca794f1023002715b5e18110c767</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-03 01:43:23</sys_updated_on>
+        <timeline_page/>
+        <title>Patients</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
