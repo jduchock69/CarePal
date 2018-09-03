@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Admissions" max_length="40" name="x_272930_carepal_1_admissions" type="collection">
+        <element label="Admission Date/Time" max_length="40" name="admission_date" type="glide_date_time"/>
+        <element label="Patient Name" max_length="32" name="patient_name" reference="x_272930_carepal_1_patient" type="reference"/>
+        <index name="index">
+            <element name="patient_name"/>
+        </index>
+    </element>
+</database>

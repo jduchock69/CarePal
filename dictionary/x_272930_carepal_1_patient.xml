@@ -6,7 +6,7 @@
         <element label="Emergency Contact Name" max_length="100" name="emergency_contact_name" type="string"/>
         <element label="Emergency Contact Number" max_length="40" name="emergency_contact_number" type="string"/>
         <element label="First Name" max_length="40" name="first_name" type="string"/>
-        <element label="Full Name" max_length="100" name="full_name" type="string"/>
+        <element display="true" label="Full Name" max_length="100" name="full_name" type="string"/>
         <element label="Last Name" max_length="40" name="last_name" type="string"/>
         <element label="Middle Initial" max_length="3" name="middle_initial" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Patient SSN" max_length="40" name="patient_ssn" type="string"/>

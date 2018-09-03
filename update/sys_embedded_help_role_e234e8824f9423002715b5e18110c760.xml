@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_272930_carepal_1.CarePal User" name="x_272930_carepal_1.CarePal User">4034a8824f9423002715b5e18110c7a5</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-03 12:37:58</sys_created_on>
+        <sys_id>e234e8824f9423002715b5e18110c760</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4034a8824f9423002715b5e18110c7a5</sys_name>
+        <sys_package display_value="CarePal 1.0" source="x_272930_carepal_1">404e06794f1023002715b5e18110c793</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CarePal 1.0">404e06794f1023002715b5e18110c793</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e234e8824f9423002715b5e18110c760</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-03 12:37:58</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
